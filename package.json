@@ -8,8 +8,8 @@
     "build": "parcel build public/index.html",
     "test": "jest"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Alessandro Falezza",
+  "license": "MIT",
   "dependencies": {
     "jest": "^24.7.1",
     "node-sass": "^4.12.0",
