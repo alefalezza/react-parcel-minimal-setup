@@ -2,6 +2,10 @@
   "name": "react-parcel-minimal-setup",
   "version": "1.0.0",
   "description": "React single page application with parceljs builder",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alefalezza/react-parcel-minimal-setup.git"
+  },
   "main": "dist/index.html",
   "scripts": {
     "start": "parcel public/index.html",
